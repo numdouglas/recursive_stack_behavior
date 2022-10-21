@@ -1,0 +1,3 @@
+project(recursive_stack_behavior)
+
+add_executable(main recursive_stack_behavior.cxx)
